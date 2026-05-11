@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\TransactionsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\TransactionsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsFindCurrency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsFindCurrency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsShowTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsShowTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsCurrencyExchangeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsCurrencyExchangeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUpdateRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUpdateRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionsMenu.cpp",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\TransactionsMenu.cpp",
+              "RelativeDocumentMoniker": "TransactionsMenu\\TransactionsMenu.cpp",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\TransactionsMenu.cpp",
+              "RelativeToolTip": "TransactionsMenu\\TransactionsMenu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-04T15:40:38.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsClientListScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsClientListScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsClientListScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-21T09:15:10.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsBankClient.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsBankClient.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsBankClient.h",
+              "RelativeToolTip": "TransactionsMenu\\clsBankClient.h",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAKcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T17:59:40.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsAddNewClientScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:06:15.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsString.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsString.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsString.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsString.h",
+              "RelativeToolTip": "TransactionsMenu\\clsString.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:06:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsInputValidate.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsInputValidate.h",
+              "RelativeToolTip": "TransactionsMenu\\clsInputValidate.h",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T15:54:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUser.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUser.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\3 Bank System\\TransactionsMenu\\clsUser.h*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:06:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsFindCurrency.cpp",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsFindCurrency.cpp",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsFindCurrency.cpp",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsFindCurrency.cpp",
+              "RelativeToolTip": "TransactionsMenu\\clsFindCurrency.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T18:06:58.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsMainScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsMainScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsMainScreen.h",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:05:21.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\Global.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\Global.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\Global.h",
+              "RelativeToolTip": "TransactionsMenu\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T10:55:01.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAAoCAAAAAAAAAAASwBkCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-24T18:06:50.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsDepositScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsDepositScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsDepositScreen.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:05:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsShowTransferLogScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsShowTransferLogScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsShowTransferLogScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsShowTransferLogScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsShowTransferLogScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T17:45:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsTransactionsScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsTransactionsScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsTransactionsScreen.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:04:57.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUpdateClientScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:04:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsCurrencyCalculatorScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsCurrencyCalculatorScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T13:40:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsCurrencyExchangeScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsCurrencyExchangeScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsCurrencyExchangeScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsCurrencyExchangeScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsCurrencyExchangeScreen.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T17:58:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsUpdateRateScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUpdateRateScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUpdateRateScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsUpdateRateScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsUpdateRateScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:04:09.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsDeleteUserScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:19:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsManageUsersScreen.h",
+              "ToolTip": "D:\\Not important\\cmder\\MyProjects\\Bank System - cpp\\TransactionsMenu\\clsManageUsersScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:05:15.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

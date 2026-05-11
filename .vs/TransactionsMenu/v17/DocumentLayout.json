@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\TransactionsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\TransactionsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E1F4EF-EE64-4355-ACB9-C3FEEC99641C}|TransactionsMenu\\TransactionsMenu.vcxproj|solutionrelative:TransactionsMenu\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\Global.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\Global.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\Global.h",
+              "RelativeToolTip": "TransactionsMenu\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T09:19:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsTransactionsScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsTransactionsScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsTransactionsScreen.h",
+              "ViewState": "AgIAADsAAAAAAAAAAAAhwEcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:37:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsMenu.cpp",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\TransactionsMenu.cpp",
+              "RelativeDocumentMoniker": "TransactionsMenu\\TransactionsMenu.cpp",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\TransactionsMenu.cpp",
+              "RelativeToolTip": "TransactionsMenu\\TransactionsMenu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-01T12:24:56.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsLoginScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsLoginScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsLoginScreen.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T09:17:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsMainScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsMainScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsMainScreen.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAhwEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:31:28.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsScreen.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:27:31.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsFindClientScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsFindClientScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsFindClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:36:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDate.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsDate.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDate.h",
+              "RelativeToolTip": "TransactionsMenu\\clsDate.h",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:30:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUpdateClientScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:32:40.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsManageUsersScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsManageUsersScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T15:09:19.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUser.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUser.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUser.h",
+              "RelativeToolTip": "TransactionsMenu\\clsUser.h",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAJgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T16:15:00.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsDeleteClientScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:32:17.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsClientListScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsClientListScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsClientListScreen.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:31:05.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUpdateUserScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T16:51:11.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsFindUserScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsFindUserScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsFindUserScreen.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T16:56:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsDeleteUserScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T16:44:28.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsListUsersScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsListUsersScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsListUsersScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsListUsersScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsListUsersScreen.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T16:17:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsAddNewUserScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T16:33:56.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsWithdrawScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsWithdrawScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsWithdrawScreen.h",
+              "ViewState": "AgIAADIAAAAAAAAAAAAMwEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T13:12:02.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsDepositScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsDepositScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsDepositScreen.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T13:11:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsAddNewClientScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:31:53.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsTotalBalancesScreen.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsTotalBalancesScreen.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsTotalBalancesScreen.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsTotalBalancesScreen.h",
+              "RelativeToolTip": "TransactionsMenu\\clsTotalBalancesScreen.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T13:12:16.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUtil.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsUtil.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsUtil.h",
+              "RelativeToolTip": "TransactionsMenu\\clsUtil.h",
+              "ViewState": "AgIAANUAAAAAAAAAAAAuwPgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T13:59:42.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsPerson.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsPerson.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsPerson.h",
+              "RelativeToolTip": "TransactionsMenu\\clsPerson.h",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:30:42.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsString.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsString.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsString.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsString.h",
+              "RelativeToolTip": "TransactionsMenu\\clsString.h",
+              "ViewState": "AgIAAOkBAAAAAAAAAAAUwP8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:28:43.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsInputValidate.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsInputValidate.h",
+              "RelativeToolTip": "TransactionsMenu\\clsInputValidate.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:27:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsBankClient.h",
+              "RelativeDocumentMoniker": "TransactionsMenu\\clsBankClient.h",
+              "ToolTip": "E:\\Projects\\11th Course\\Bank System UI\\TransactionsMenu\\TransactionsMenu\\clsBankClient.h",
+              "RelativeToolTip": "TransactionsMenu\\clsBankClient.h",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAYwIgBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-01T12:27:12.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
