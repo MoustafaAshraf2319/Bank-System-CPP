@@ -2,7 +2,7 @@
 
 A robust and professional console-based Bank Management System built using **Advanced C++** and **Object-Oriented Programming (OOP)** principles. 
 
-## 🚀 Features
+## Features
 The system provides a comprehensive suite of banking functionalities, including:
 1.  **Client Management**: Show, Add, Delete, Update, and Find clients.
 2.  **Transactions**: Deposit, Withdraw, Total Balances, and Transfer Log.
